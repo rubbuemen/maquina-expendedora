@@ -13,8 +13,10 @@ Módulos necesarios:
 - npm i sweetalert2
 - npm i bootstrap
 
-Modificar en angular.json:
 #
+
+Modificar en angular.json:
+
 "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"

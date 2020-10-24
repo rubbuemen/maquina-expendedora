@@ -14,6 +14,7 @@ Módulos necesarios:
 - npm i bootstrap
 
 Modificar en angular.json:
+###
 "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
